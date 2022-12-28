@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract", "Abstract\Abstract.csproj", "{94A9130F-9257-4008-99C5-F978D6057834}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{E571868D-AA0E-453A-9CE4-A1C716441149}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{E571868D-AA0E-453A-9CE4-A1C716441149}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubSub", "PubSub\PubSub.csproj", "{9F022ACC-CC2C-406A-B78C-2ED3050B8A19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubSub", "PubSub\PubSub.csproj", "{9F022ACC-CC2C-406A-B78C-2ED3050B8A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circuit Breaker", "Circuit Breaker\Circuit Breaker.csproj", "{7FC373E5-B83B-4C17-B284-03B1AFC6F108}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{9F022ACC-CC2C-406A-B78C-2ED3050B8A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F022ACC-CC2C-406A-B78C-2ED3050B8A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F022ACC-CC2C-406A-B78C-2ED3050B8A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC373E5-B83B-4C17-B284-03B1AFC6F108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC373E5-B83B-4C17-B284-03B1AFC6F108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC373E5-B83B-4C17-B284-03B1AFC6F108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC373E5-B83B-4C17-B284-03B1AFC6F108}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

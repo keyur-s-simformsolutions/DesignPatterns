@@ -1,0 +1,28 @@
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\bin\Debug\net6.0\appsettings.json
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\bin\Debug\net6.0\Circuit Breaker.staticwebassets.runtime.json
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\bin\Debug\net6.0\Circuit Breaker.exe
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\bin\Debug\net6.0\Circuit Breaker.deps.json
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\bin\Debug\net6.0\Circuit Breaker.runtimeconfig.json
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\bin\Debug\net6.0\Circuit Breaker.dll
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\bin\Debug\net6.0\Circuit Breaker.pdb
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\bin\Debug\net6.0\Polly.dll
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\Circuit Breaker.csproj.AssemblyReference.cache
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\Circuit Breaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\Circuit Breaker.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\Circuit Breaker.AssemblyInfo.cs
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\Circuit Breaker.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\Circuit Breaker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\Circuit Breaker.RazorAssemblyInfo.cache
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\Circuit Breaker.RazorAssemblyInfo.cs
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\scopedcss\bundle\Circuit Breaker.styles.css
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\scopedcss\projectbundle\Circuit Breaker.bundle.scp.css
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\Circuit Breaker.csproj.CopyComplete
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\Circuit Breaker.dll
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\refint\Circuit Breaker.dll
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\Circuit Breaker.pdb
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\Circuit Breaker.genruntimeconfig.cache
+C:\Users\keyur\source\repos\DesignPattern\Circuit Breaker\obj\Debug\net6.0\ref\Circuit Breaker.dll

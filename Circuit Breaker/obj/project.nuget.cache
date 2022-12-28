@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0AhZIWwPka2Tu/6EJx18ccs69U8pCN2fvk/8mVI6bD2n4SAbMgDR66zt/w81T3cO0JP1Z4KsyWaQyhQpVLC/iA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keyur\\source\\repos\\DesignPattern\\Circuit Breaker\\Circuit Breaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keyur\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
