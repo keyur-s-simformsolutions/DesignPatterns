@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Repository.Data.Entity.Category>
+
+@{
+    ViewData["Title"] = "Index";
+     Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p><p>
+    <a asp-controller="Categories" asp-action="Index">Categories</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var category in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => category.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@category.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@category.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@category.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
