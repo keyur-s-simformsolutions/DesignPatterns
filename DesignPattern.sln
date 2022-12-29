@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubSub", "PubSub\PubSub.csproj", "{9F022ACC-CC2C-406A-B78C-2ED3050B8A19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circuit Breaker", "Circuit Breaker\Circuit Breaker.csproj", "{7FC373E5-B83B-4C17-B284-03B1AFC6F108}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Circuit Breaker", "Circuit Breaker\Circuit Breaker.csproj", "{7FC373E5-B83B-4C17-B284-03B1AFC6F108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS", "CQRS\CQRS.csproj", "{E12ED78F-5BF4-4BC1-B0C9-11FFC2C77B48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{7FC373E5-B83B-4C17-B284-03B1AFC6F108}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FC373E5-B83B-4C17-B284-03B1AFC6F108}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FC373E5-B83B-4C17-B284-03B1AFC6F108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E12ED78F-5BF4-4BC1-B0C9-11FFC2C77B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12ED78F-5BF4-4BC1-B0C9-11FFC2C77B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12ED78F-5BF4-4BC1-B0C9-11FFC2C77B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12ED78F-5BF4-4BC1-B0C9-11FFC2C77B48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
