@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubSub", "PubSub\PubSub.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Circuit Breaker", "Circuit Breaker\Circuit Breaker.csproj", "{7FC373E5-B83B-4C17-B284-03B1AFC6F108}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS", "CQRS\CQRS.csproj", "{E12ED78F-5BF4-4BC1-B0C9-11FFC2C77B48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS", "CQRS\CQRS.csproj", "{E12ED78F-5BF4-4BC1-B0C9-11FFC2C77B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event Sourcing", "Event Sourcing\Event Sourcing.csproj", "{F1F9D894-A1F4-415E-9CFB-B6BD090F8CE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{E12ED78F-5BF4-4BC1-B0C9-11FFC2C77B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E12ED78F-5BF4-4BC1-B0C9-11FFC2C77B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E12ED78F-5BF4-4BC1-B0C9-11FFC2C77B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F9D894-A1F4-415E-9CFB-B6BD090F8CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F9D894-A1F4-415E-9CFB-B6BD090F8CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F9D894-A1F4-415E-9CFB-B6BD090F8CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F9D894-A1F4-415E-9CFB-B6BD090F8CE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

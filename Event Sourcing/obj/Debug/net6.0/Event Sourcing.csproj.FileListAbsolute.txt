@@ -1,0 +1,38 @@
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\appsettings.json
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Event Sourcing.exe
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Event Sourcing.deps.json
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Event Sourcing.runtimeconfig.json
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Event Sourcing.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Event Sourcing.pdb
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\Event Sourcing.csproj.AssemblyReference.cache
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\Event Sourcing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\Event Sourcing.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\Event Sourcing.AssemblyInfo.cs
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\Event Sourcing.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\Event Sourcing.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\Event Sourcing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\scopedcss\bundle\Event Sourcing.styles.css
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\Event Sourcing.csproj.CopyComplete
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\Event Sourcing.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\refint\Event Sourcing.dll
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\Event Sourcing.pdb
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\Event Sourcing.genruntimeconfig.cache
+C:\Users\keyur\source\repos\DesignPattern\Event Sourcing\obj\Debug\net6.0\ref\Event Sourcing.dll
