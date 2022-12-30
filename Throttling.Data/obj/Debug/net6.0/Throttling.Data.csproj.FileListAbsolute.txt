@@ -1,0 +1,12 @@
+C:\Users\keyur\source\repos\DesignPattern\Throttling.Data\bin\Debug\net6.0\Throttling.Data.deps.json
+C:\Users\keyur\source\repos\DesignPattern\Throttling.Data\bin\Debug\net6.0\Throttling.Data.dll
+C:\Users\keyur\source\repos\DesignPattern\Throttling.Data\bin\Debug\net6.0\Throttling.Data.pdb
+C:\Users\keyur\source\repos\DesignPattern\Throttling.Data\obj\Debug\net6.0\Throttling.Data.csproj.AssemblyReference.cache
+C:\Users\keyur\source\repos\DesignPattern\Throttling.Data\obj\Debug\net6.0\Throttling.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyur\source\repos\DesignPattern\Throttling.Data\obj\Debug\net6.0\Throttling.Data.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\DesignPattern\Throttling.Data\obj\Debug\net6.0\Throttling.Data.AssemblyInfo.cs
+C:\Users\keyur\source\repos\DesignPattern\Throttling.Data\obj\Debug\net6.0\Throttling.Data.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\DesignPattern\Throttling.Data\obj\Debug\net6.0\Throttling.Data.dll
+C:\Users\keyur\source\repos\DesignPattern\Throttling.Data\obj\Debug\net6.0\refint\Throttling.Data.dll
+C:\Users\keyur\source\repos\DesignPattern\Throttling.Data\obj\Debug\net6.0\Throttling.Data.pdb
+C:\Users\keyur\source\repos\DesignPattern\Throttling.Data\obj\Debug\net6.0\ref\Throttling.Data.dll

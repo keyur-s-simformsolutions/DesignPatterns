@@ -21,7 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Circuit Breaker", "Circuit 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS", "CQRS\CQRS.csproj", "{E12ED78F-5BF4-4BC1-B0C9-11FFC2C77B48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event Sourcing", "Event Sourcing\Event Sourcing.csproj", "{F1F9D894-A1F4-415E-9CFB-B6BD090F8CE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event Sourcing", "Event Sourcing\Event Sourcing.csproj", "{F1F9D894-A1F4-415E-9CFB-B6BD090F8CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Throttling", "Throttling\Throttling.csproj", "{A54EA145-93C9-45B8-ACAD-1B967802373E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Throttling.Core", "Throttling.Core\Throttling.Core.csproj", "{ED1E0CF5-CF45-498B-8F8F-461F7609EEB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Throttling.Data", "Throttling.Data\Throttling.Data.csproj", "{1AF4AFC5-AD5C-42BD-B8E2-2333B727A0BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{F1F9D894-A1F4-415E-9CFB-B6BD090F8CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1F9D894-A1F4-415E-9CFB-B6BD090F8CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1F9D894-A1F4-415E-9CFB-B6BD090F8CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54EA145-93C9-45B8-ACAD-1B967802373E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54EA145-93C9-45B8-ACAD-1B967802373E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54EA145-93C9-45B8-ACAD-1B967802373E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54EA145-93C9-45B8-ACAD-1B967802373E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1E0CF5-CF45-498B-8F8F-461F7609EEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1E0CF5-CF45-498B-8F8F-461F7609EEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1E0CF5-CF45-498B-8F8F-461F7609EEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1E0CF5-CF45-498B-8F8F-461F7609EEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF4AFC5-AD5C-42BD-B8E2-2333B727A0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF4AFC5-AD5C-42BD-B8E2-2333B727A0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF4AFC5-AD5C-42BD-B8E2-2333B727A0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF4AFC5-AD5C-42BD-B8E2-2333B727A0BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
